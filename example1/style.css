@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-right: auto;
+}
+
+.left-bar{
+    float: left;
+    margin-right: 10px;
+    width: 190px;
+}
+.content {
+    float: left;
+    width: 800px;
+}
+.card {
+    width: 17%;
+    padding: 5%;
+    float: left;
+    margin-right: 3%;
+    margin-top: 3%;
+    border-radius: 20px;
+    background-color: bisque;
+
+}

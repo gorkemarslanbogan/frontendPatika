@@ -1,0 +1,10 @@
+
+body {
+    text-align: center;
+    list-style: inside; 
+    /* liste öğelerindeki soldaki işaretleri ortalamak için list-style inside kullandık. */
+}
+
+.title {
+    color: purple;
+}
